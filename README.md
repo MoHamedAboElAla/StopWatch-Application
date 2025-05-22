@@ -12,4 +12,4 @@ Features:
 
 4-Clean and modern UI with a soft gradient background.
 
-<img src="StopWatch.png"></img
+<img src="StopWatch.png"/>
